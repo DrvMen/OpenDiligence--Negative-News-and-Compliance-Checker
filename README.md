@@ -33,12 +33,12 @@ OpenDiligence--Negative-News-and-Compliance-Checker/
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TailwindCSS (optional: Redux, ShadCN UI)
+- **Frontend:** React, TailwindCSS 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (planned integration)
 - **Scraping:** Playwright / BeautifulSoup (Python integration possible)
 - **AI/NLP:** Transformers for text classification & risk tagging
-- **Deployment:** Docker + AWS / GCP / Vercel
+- **Deployment:** AWS
 
 ---
 
